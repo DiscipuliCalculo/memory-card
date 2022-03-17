@@ -6,11 +6,9 @@ function App() {
   return (
     <div>
       <div className='Title'> 
-        <h1>Hello this is working</h1>
+        <h1>Survivor Memory Card</h1>
       </div>
-      <div className='Gameboard'>
         <Cards></Cards>
-      </div>
     </div>
   )
 }
